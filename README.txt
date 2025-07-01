@@ -1,1 +1,0 @@
-Quick tool for face darkening using Android overlay and ML Kit.
